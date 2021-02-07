@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wk12_weekend_homework-53254903f809229cfe8f74d58b188d94434a730b" />
+        <module name="weekendHomeworkMusicShop" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
